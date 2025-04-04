@@ -47,10 +47,22 @@ main {
     background-color: #e0e0e0;
 }
 
+.about-section h3 {
+    margin-top: 20px;
+    color: #333;
+}
+
+.about-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.about-section ul li {
+    padding: 5px 0;
+    font-weight: bold;
+}
+
 .contact-section {
     padding: 20px;
     background-color: #d0d0d0;
 }
-
-
-
